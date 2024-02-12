@@ -1,0 +1,14 @@
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\bin\Debug\net7.0\Controle de pneu com login.exe
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\bin\Debug\net7.0\Controle de pneu com login.deps.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\bin\Debug\net7.0\Controle de pneu com login.runtimeconfig.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\bin\Debug\net7.0\Controle de pneu com login.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\bin\Debug\net7.0\Controle de pneu com login.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.AssemblyInfoInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.AssemblyInfo.cs
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.csproj.CoreCompileInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\refint\Controle de pneu com login.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\Controle de pneu com login.genruntimeconfig.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\ProMe\Controle de pneu com login\obj\Debug\net7.0\ref\Controle de pneu com login.dll
